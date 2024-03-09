@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+header {
+    background-color: #f9f6f2;
+    text-align: center;
+    padding: 100px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+.btn {
+    background-color: #FFD700;
+    color: #333;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+contact{
+  padding: 50px;
+  text-align: center;
+}
+#photo{
+  background-image:url("https://img.freepik.com/free-vector/anxiety-concept-illustration_114360-8074.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709596800&semt=sph");
+  background-repeat: no-repeat;
+  width : 1000px;
+  height: 1000px;
+  background-position: right-center;
+  
+}
+
+footer {
+    background-color: #f9f6f2;
+    text-align: center;
+    padding: 20px 0;
+}
